@@ -1,4 +1,4 @@
-duckdb==0.10.1.dev414
+duckdb==0.10.1.dev1005
 streamlit
 altair==4.2.2
 xlsxwriter
