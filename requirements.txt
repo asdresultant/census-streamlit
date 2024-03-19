@@ -1,5 +1,5 @@
 duckdb
-duckdb --upgrade --pre
+duckdb==0.10.1.dev1338
 streamlit
 altair==4.2.2
 xlsxwriter
