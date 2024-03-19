@@ -1,1 +1,6 @@
+duckdb
+duckdb --upgrade --pre
 streamlit
+altair==4.2.2
+xlsxwriter
+pandas
